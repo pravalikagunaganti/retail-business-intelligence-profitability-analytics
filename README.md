@@ -57,15 +57,15 @@ The primary objective was to identify:
 
 ### Executive Dashboard
 
-![Executive Dashboard]("C:\Users\gunig\Downloads\Executive Dashboard.png")
+![Executive Dashboard](Executive Dasboard.png)
 
 ### Business Insights Dashboard
 
-![Business Insights Dashboard]("C:\Users\gunig\Downloads\Business Insights Dashboard.png")
+![Business Insights Dashboard](Business Insights Dashboard.png)
 
 ### Live Interactive Dashboard
 
-![Live Dashboard]("C:\Users\gunig\Downloads\Live Dashboard.png")
+![Live Dashboard](Live Dashboard.png)
 
 ---
 
