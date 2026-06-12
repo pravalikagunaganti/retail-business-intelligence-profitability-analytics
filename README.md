@@ -65,7 +65,7 @@ The primary objective was to identify:
 
 ### Live Interactive Dashboard
 
-![Live Dashboard](Live%20Dashboard.png) 
+![Live Dashboard](Live%20dasboard.png) 
 ---
 
 ## Key Business Insights
