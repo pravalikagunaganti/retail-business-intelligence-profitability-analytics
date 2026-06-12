@@ -54,18 +54,17 @@ The primary objective was to identify:
 ---
 
 ## Dashboard Preview
+### Executive Dashboard
 
-### Executive Dasboard
-
-![Executive Dasboard](Executive Dasboard.png)
+![Executive Dashboard](dashboard_screenshots/executive-dashboard.png)
 
 ### Business Insights Dashboard
 
-![Business Insights Dashboard](Business Insights Dashboard.png)
+![Business Insights Dashboard](dashboard_screenshots/business-insights-dashboard.png)
 
 ### Live Interactive Dashboard
 
-![Live Dashboard](Live Dashboard.png)
+![Live Dashboard](dashboard_screenshots/live-dashboard.png)
 
 ---
 
